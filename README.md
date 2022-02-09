@@ -1,5 +1,5 @@
 # Air_Attack_CPP
-<h> A refactoring of the first game I made with the Processing Javascript Library using C++ and the SFML Library. </h>
+<h> The gaol of this project is to refactor the messy code I wrote in middle school using the Processing JS library as a C++ project that uses SFML libraries </h>
 
 <p> See SFML: https://www.sfml-dev.org/index.php  </p>
 
